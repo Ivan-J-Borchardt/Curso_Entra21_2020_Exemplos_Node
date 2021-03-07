@@ -18,19 +18,19 @@ A collection of short and didactic examples of JavaScript/Node code developed fo
 
 Each example in this repository is a complete project.
 
-# Clone this repository
+#### Clone this repository
 $ git clone <https://github.com/Ivan-J-Borchardt/ExemplosCursoNode>
 
-# Access the folder of each project in the terminal / cmd
+#### Access the folder of each project in the terminal / cmd
 $ cd <Nome_do_Projeto>
 
-# Install the dependencies
+#### Install the dependencies
 $ npm install
 
-# Run the application
+#### Run the application
 $ node <File_Name.js>
 
-# The server will start at port: 3000 - go to <http://localhost:3000>
+#### The server will start at port: 3000 - go to <http://localhost:3000>
 
 ### Technology
 
