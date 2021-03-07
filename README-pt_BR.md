@@ -19,19 +19,19 @@ Coletânea de exemplos curtos e didáticos de código JavaScript/Node desenvolvi
 
 Cada exemplo deste repositório é um projeto completo.
 
-# Clone este repositório
+#### Clone este repositório
 $ git clone <https://github.com/Ivan-J-Borchardt/ExemplosCursoNode>
 
-# Acesse a pasta de cada projeto no terminal/cmd
+#### Acesse a pasta de cada projeto no terminal/cmd
 $ cd <Nome_do_Projeto>
 
-# Instale as dependências
+#### Instale as dependências
 $ npm install
 
-# Execute a aplicação
+#### Execute a aplicação
 $ node <Nome_do_Arquivo_JS>
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+#### O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
 
 ### Tecnologias
 
